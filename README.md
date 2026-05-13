@@ -122,3 +122,6 @@ RegisterNumber:  21225040056
 
 
 ## Result:
+The Random Forest algorithm successfully predicted daily temperature, PM2.5 pollution level, and energy values with good accuracy using environmental sensor data.
+
+
